@@ -8,7 +8,7 @@ This project aims to automate the process of splitting large text files into sma
 1. 对于视频字幕，自动将其拆分成更小的块，直接输出成文章。
 2. 对于视频文案，自动将其拆分成更小的块，直接输出成视频字幕。
 
-## 文件结构：
+## 文件结构
 项目我们可以将其分为几个主要的模块或文件，每个模块负责不同的任务。
 
 1. **主程序 (`main.py`)**:
@@ -59,6 +59,7 @@ project/
 |-- README.md
 |-- requirements.txt
 ```
+## LICENSE
 
 <a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" style="border-width:0" src="https://img.shields.io/badge/license-MIT-blue" /></a><br />
 本作品采用<a rel="license" href="https://opensource.org/licenses/MIT">MIT 许可协议</a>进行许可。
